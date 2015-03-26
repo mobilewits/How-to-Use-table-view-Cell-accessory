@@ -1,0 +1,12 @@
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TableviewCellaccesory/TableviewCellaccesory.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TableviewCellaccesory/TableviewCellaccesory.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TableviewCellaccesory/TableviewCellaccesory.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TableviewCellaccesory/TableviewCellaccesory.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TableviewCellaccesory/TableviewCellaccesory.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TableviewCellaccesory/TableviewCellaccesory.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TableviewCellaccesory/TableviewCellaccesory.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TableviewCellaccesory/TableviewCellaccesory.iOS/obj/iPhoneSimulator/Debug/
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TableviewCellaccesory/TableviewCellaccesory.iOS/bin/iPhoneSimulator/Debug/TableviewCellaccesory.iOS.exe.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TableviewCellaccesory/TableviewCellaccesory.iOS/bin/iPhoneSimulator/Debug/TableviewCellaccesory.iOS.exe
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TableviewCellaccesory/TableviewCellaccesory.iOS/obj/iPhoneSimulator/Debug/TableviewCellaccesory.iOS.exe
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TableviewCellaccesory/TableviewCellaccesory.iOS/obj/iPhoneSimulator/Debug/TableviewCellaccesory.iOS.exe.mdb
